@@ -61,7 +61,7 @@
     "debounce": "^2.0.0",
     "html-to-text": "^9.0.5",
     "is-ci": "^3.0.1",
-    "next": "^15.1.6",
+    "next": "^15.2.3",
     "next-auth": "^4.24.11",
     "nodemailer": "^6.9.16",
     "react": "18.3.1",
